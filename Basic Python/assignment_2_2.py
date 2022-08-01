@@ -1,0 +1,5 @@
+str=input("Enter the text: ")
+str.split()
+key=input("Enter the key: ")
+c=str.count(key)
+print(c)
